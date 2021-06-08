@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## jj's Image Host Documentation
 
 You can use the [editor on GitHub](https://github.com/githubiscoolforeverything/imagehostdocs/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
