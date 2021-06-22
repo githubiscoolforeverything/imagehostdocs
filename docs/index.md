@@ -18,7 +18,7 @@ You can access image data by using GET
 Examples:
 going to https://jjdev.ga/v1/imagedata?image=615692867214d1d0d5b979f02c998726.PNG will return a json
 this will allow you to use it in any language you want
-you will need to add the image name + file extension cuz currently we do not support it on the api
+you will need to add the image name + file extension cuz currently we do not support a image name without a file extension on the api
 
 Json Descriptions
 
