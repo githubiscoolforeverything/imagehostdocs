@@ -1,6 +1,6 @@
 ## jj's Image Host Documentation
 
-Note: Since the api doesn't have much features yet, I will still show you some of the api features you can use. All of these api features are avaliable in any language that supports [POST].
+Note: Since the api doesn't have much features yet, I will still show you some of the api features you can use. All of these api features are avaliable in any language that supports [POST] and [GET].
 ### [1]: Uploading a simple image using POST
 
 The /add url allows you to upload images
