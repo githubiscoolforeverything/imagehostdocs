@@ -22,8 +22,10 @@ you will need to add the image name + file extension cuz currently we do not sup
 
 Json Descriptions
 
-response: the page response\n
-fullname: the full name of the image\n
-uploaded: the date/time the image was uploaded\n
+response: the page response
+
+fullname: the full name of the image
+
+uploaded: the date/time the image was uploaded
 
 Note: the api is in the beta stage so not a lot is done yet
